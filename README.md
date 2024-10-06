@@ -1,5 +1,6 @@
 # My Portfolio Website
-This project showcases my web development skills through a portfolio built with HTML and CSS. Check it out live here: [My Portfolio]([http://recruiters-love-seeing-live-demos.com/](https://tusharpatowary.netlify.app/))!
+This project showcases my web development skills through a portfolio built with HTML and CSS. Check out my portfolio here: [Live link](https://tusharpatowary.netlify.app/)
+
 
 # Preview
 ![](https://github.com/tusharpatowary/assin-portfolio/blob/main/portfolio-preview.gif)
